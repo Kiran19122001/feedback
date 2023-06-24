@@ -1,0 +1,76 @@
+.cont-1 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #ffeeee, #ffc0bb);
+}
+
+.cont-2 {
+    height: 400px;
+    min-width: 300px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.emojis-cont {
+    width: 700px;
+    text-align: center;
+}
+
+.demojis {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.emojis {
+    height: 70px;
+    width: 70px;
+}
+
+.buttons {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.names {
+    font-size: 20px;
+}
+
+.love-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Love {
+    height: 80px;
+    width: 80px;
+    padding-bottom: 20px;
+}
+
+.thanks {
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.res {
+    font-size: 17px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
